@@ -8,7 +8,7 @@
 
 =head1 NAME
 
-  Bio::Tools::Run::Minimo - Wrapper for local execution of the Minimo assembler
+Bio::Tools::Run::Minimo - Wrapper for local execution of the Minimo assembler
 
 =head1 SYNOPSIS
 
